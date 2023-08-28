@@ -4,7 +4,6 @@ title: Student Blog
 ---
 
 ---
-layout: de0000000fault
 title: Student Blog
 ---
 
