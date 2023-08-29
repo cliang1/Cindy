@@ -24,3 +24,6 @@ Personally, I like WSL, because we worked really cosely with it. In the beginnin
 
 ## Installation Hack
 I like using the make command, because even though I initially had problems with this command, the issues were easily remedied by changing a few lines of code to comments. Now, I can use it to see what changes I'm making, and track which pieces of code show up where. It's really facinating to see the changes in real time.
+
+
+hi
