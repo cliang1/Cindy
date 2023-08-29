@@ -23,7 +23,7 @@ width="300" height="600">
 Personally, I like WSL, because we worked really cosely with it. In the beginning, I struggled a lot with installing it, spending a lot of time on google trying to research my issue, but things seemed to calm down after I manually installed it. Now, the first thing I usually type in Powershell is "wsl".
 
 ## Installation Hack
-I like using the make command, because even though I initially had problems with this command, the issues were easily remedied by changing a few lines of code to comments. Now, I can use it to see what changes I'm making, and track which pieces of code show up where. It's really facinating to see the changes in real time.
+I like using the make command, because even though I initially had problems with this command, the issues were easily remedied by changing a few lines of code to comments. Now, I can use it to see what changes I'm making, and track which pieces of code show up where. It's really facinating to see the changes in real time.   hi
 
 
 hi
